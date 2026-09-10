@@ -1,0 +1,17 @@
+# Data and Vector Storage
+dataset/
+chroma_db/
+
+# Configuration
+.streamlit/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+.venv
